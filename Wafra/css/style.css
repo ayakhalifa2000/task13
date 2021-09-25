@@ -1,0 +1,1111 @@
+*
+{
+    font-family: 'Roboto', sans-serif;
+}
+/* star navbar */
+.size_for_images
+{
+    height: 40px;
+    margin-left: 22%;
+}
+.navbar-nav 
+{
+    margin-left: 40%;
+}
+.style
+{
+    color: #10C9C3;
+}
+.font-color a
+{
+    color: #000;
+}
+.list li
+{
+    text-transform: uppercase;
+}
+/* end navbar */
+/* star background */
+.intro
+{
+    height: 550px;
+    background: url(../images/desk-back.jpg) center center no-repeat;
+    background-size: cover;
+    width: 100%;
+}
+.intro div h1
+{
+    float: right;
+    margin-right: 6%;
+    margin-top: 185px;
+}
+.intro div p
+{
+    color: gray;
+    float: right;
+    margin-left: 30%;
+}
+.intro .button-style
+{
+    background-color: #10C9C3;
+    float: right;
+    position: relative;
+    right: -35pc;
+    top: 7pc;
+    border-radius: initial;
+    color: #fff;
+    height: 64px;
+    width: 178px;
+}
+/* end background */
+/* start About  */
+#about 
+{
+    height: 277px;
+}
+#about h3
+{
+    text-align: center;
+    margin-top: 3pc;
+}
+#about p
+{
+    text-align: center;
+    color: gray;
+}
+#about img
+{
+    height: 110px;
+    position: relative;
+    top: -1pc;
+    left: 37pc;
+}
+/* end about */
+/* strat professional-skills */
+#professional-skills
+{
+    height: 500px;
+}
+#professional-skills .border-style
+{
+    height: 500px;
+    width: 50%;
+    background-color: #F9F9F9;
+}
+#professional-skills .border-style h3
+{
+    margin-left: 2pc;
+    position: relative;
+    top: 7pc;
+
+}
+#professional-skills .border-style p
+{
+    margin-left: 2pc;
+    position: relative;
+    top: 9pc;
+}
+#professional-skills .border-style #skills
+{
+    margin-left: 2pc;
+    position: relative;
+    top: 8pc;
+    width: 85%;
+}
+#professional-skills .border-style2
+{
+    height: 500px;
+    width: 50%;
+    background:url(../images/tablet.jpg) center center no-repeat;
+    background-size: cover;
+    float: right;
+    position: relative;
+    top: -500px;
+}
+/* end professional-skills */
+/* start infromation */
+#infromaton
+{
+    height: 200px;
+    background-color: #10C9C3;
+}
+.row
+{
+    color: #fff;
+}
+.media .text-one
+{
+    position: relative;
+    left: 10pc;
+}
+.fa-briefcase
+{
+    font-size: 50px;
+    position: relative;
+    top: 4pc;
+    left: 4pc;
+}
+.fa-clock
+{
+    font-size: 50px;
+    position: relative;
+    top: 4pc;
+    left: 13pc;
+}
+.col-sm .text-two
+{
+    position: relative;
+    left: 20pc;
+    top: 1pc;
+}
+.fa-star
+{
+    font-size: 50px;
+    position: relative;
+    top: 4pc;
+    left: 25pc;
+}
+.col-sm .text-three
+{
+    position: relative;
+    left: 30pc;
+    top: 1pc;
+}
+.fa-amazon
+{
+    top: 4pc;
+    font-size: 50px;
+    position: relative;
+    left: 33pc;
+}
+.col-sm .text-four
+{
+    position: relative;
+    left: 37pc;
+    top: 1pc;
+}
+/* end */
+.section5
+{
+    height: 600px;
+    color: blue;
+    width: 101%;
+    position: relative;
+    top: -19pc;
+}
+.section5 .stylt-img1 img
+{
+    height: 286px;
+    width: 341px;
+    margin-left: -1pc;
+}
+.section5 .stylt-img1 .content ul
+{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 25%;
+    height: 48%;
+    background-color:rgb(0, 0, 0,0.6);
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    opacity: 0;
+    transition:ease-out 3s;
+}
+.section5 .stylt-img1 .content ul:hover
+{
+    opacity: 1;
+}
+.section5 .stylt-img1 .content ul li 
+{
+    list-style-type: none;
+    transform: translate(25px);
+}
+.section5 .stylt-img1 .content ul li a
+{
+    color: #fff;
+    font-size: 67px;
+}
+/* ****************** */
+.section5 .stylt-img1 .content-2 ul
+{
+    position: absolute;
+    top: 0;
+    width: 25%;
+    height: 48%;
+    background-color:rgb(0, 0, 0,0.6);
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    opacity: 0;
+    transition:ease-out 3s;
+}
+.section5 .stylt-img1 .content-2 ul:hover
+{
+    opacity: 1;
+}
+.section5 .stylt-img1 .content-2 ul li
+{
+    list-style-type: none;
+    transform: translate(25px);
+}
+.section5 .stylt-img1 .content-2 ul li a
+{
+    color: #fff;
+    font-size: 67px;
+}
+/* ********************* */
+.section5 .stylt-img1 .content-3 ul
+{
+    position: absolute;
+    top: 0;
+    width: 25%;
+    height: 48%;
+    background-color:rgb(0, 0, 0,0.6);
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    opacity: 0;
+    transition:ease-out 3s;
+}
+.section5 .stylt-img1 .content-3 ul:hover
+{
+    opacity: 1;
+}
+.section5 .stylt-img1 .content-3 ul li
+{
+    list-style-type: none;
+    transform: translate(25px);
+}
+.section5 .stylt-img1 .content-3  ul li a
+{
+    color: #fff;
+    font-size: 67px;
+}
+/* *************************** */
+.section5 .stylt-img1 .content-4 ul
+{
+    position: absolute;
+    top: 0;
+    width: 24%;
+    height: 48%;
+    background-color:rgb(0, 0, 0,0.6);
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    opacity: 0;
+    transition:ease-out 3s;
+}
+.section5 .stylt-img1 .content-4 ul:hover
+{
+    opacity: 1;
+}
+.section5 .stylt-img1 .content-4 ul li
+{
+    list-style-type: none;
+    transform: translate(25px);
+}
+.section5 .stylt-img1 .content-4  ul li a
+{
+    color: #fff;
+    font-size: 67px;
+}
+/* *************************************** */
+.section5 .stylt-img1 .content-5 ul
+{
+    position: absolute;
+    left: 0;
+    position: absolute;
+    top: 288px;
+    height: 48%;
+    width: 25%;
+    background-color:rgb(0, 0, 0,0.6);
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    opacity: 0;
+    transition:ease-out 3s;
+}
+.section5 .stylt-img1 .content-5 ul:hover
+{
+    opacity: 1;
+}
+.section5 .stylt-img1 .content-5 ul li
+{
+    list-style-type: none;
+    transform: translate(25px);
+}
+.section5 .stylt-img1 .content-5  ul li a
+{
+    color: #fff;
+    font-size: 67px;
+}
+/* ***************************************** */
+.section5 .stylt-img1 .content-6 ul
+{
+    position: absolute;
+    top: 288px;
+    left: 20pc;
+    height: 48%;
+    width: 27%;
+    background-color:rgb(0, 0, 0,0.6);
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    opacity: 0;
+    transition:ease-out 3s;
+}
+.section5 .stylt-img1 .content-6 ul:hover
+{
+    opacity: 1;
+}
+.section5 .stylt-img1 .content-6 ul li
+{
+    list-style-type: none;
+    transform: translate(25px);
+}
+.section5 .stylt-img1 .content-6  ul li a
+{
+    color: #fff;
+    font-size: 67px;
+}
+/* ************************************* */
+.section5 .stylt-img1 .content-7 ul
+{
+    position: absolute;
+    top: 17pc;
+    width: 25%;
+    height: 49%;
+    background-color:rgb(0, 0, 0,0.6);
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    opacity: 0;
+    transition:ease-out 3s;
+}
+.section5 .stylt-img1 .content-7 ul:hover
+{
+    opacity: 1;
+}
+.section5 .stylt-img1 .content-7 ul li
+{
+    list-style-type: none;
+    transform: translate(25px);
+}
+.section5 .stylt-img1 .content-7  ul li a
+{
+    color: #fff;
+    font-size: 67px;
+}
+/* *************************** */
+.section5 .stylt-img1 .content-8 ul
+{
+    position: absolute;
+    top: 17pc;
+    width: 24%;
+    height: 49%;
+    background-color:rgb(0, 0, 0,0.6);
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    opacity: 0;
+    transition:ease-out 3s;
+}
+.section5 .stylt-img1 .content-8 ul:hover
+{
+    opacity: 1;
+}
+.section5 .stylt-img1 .content-8 ul li
+{
+    list-style-type: none;
+    transform: translate(25px);
+}
+.section5 .stylt-img1 .content-8  ul li a
+{
+    color: #fff;
+    font-size: 67px;
+}
+.section5 .more
+{
+    background-color: #F5F5F5;
+    height: 82px;
+    width: 100%;
+}
+.section5 .more p
+{
+    color:#BBB ;
+    text-align: center;
+    padding-top: 18px;
+    font-weight: bolder;
+}
+/* end */
+#work
+{
+    position: relative;
+    top: -221px;
+    height: 355px;
+}
+#work .text-work h3
+{   
+    text-align: center;
+    font-weight: bolder;
+}
+#work .text-work p
+{
+    text-align: center;
+    color: gray;
+}
+#work .text-work video
+{
+    position: relative;
+    left: 12pc;
+    top: -5pc;
+}
+/* end */
+.our-inform
+{
+    height: 345px;
+    position: relative;
+    color: #131302;
+    width: 98%;
+    top: 23pc;
+    left: 2pc;
+    background-color: #F5F5F5;
+}
+.our-inform .fa-gem ,
+.fa-mouse-pointer ,
+.fa-mobile-alt ,
+.fa-gamepad ,
+.fa-plane ,
+.fa-lightbulb ,
+.fa-magic ,
+.fa-tint
+{
+    color: gray;
+    font-size: 48px;
+    padding-left: 8pc;
+}
+.our-inform .col h5
+{
+    text-align: center;
+    font-size: 16px;
+    font-weight: bolder;
+    margin-top: 6px;
+}
+.our-inform .col p
+{
+    color: grey;
+    font-size: 14px;
+    text-align: center;
+}
+/* end */
+/* start part-slide */
+#part-slide
+{
+    height: 490px;
+    background-color: #10C9C3;
+    color: #fff;
+    margin-top: 23pc;
+}
+#part-slide p , h6
+{
+    text-transform: uppercase;
+    text-align: center;
+}
+#part-slide p 
+{
+    padding-top: 12pc;
+}
+#part-slide .circle  
+{
+    display: flex;
+    justify-content: center;
+    padding-top: 6pc;
+}
+#part-slide .circle .fa-circle
+{
+    padding-right: 2pc;
+    width: 1px;
+    height: 2px;
+    font-weight: 100;
+    font-size: 13px;
+    cursor: pointer;
+}
+#part-slide .circle .fa-circle:hover
+{
+    font-weight: bolder;
+    font-size: 20px;
+    line-height: 14px;
+}
+/* end */
+/* start work with  */
+#work-with
+{
+    height: 183px;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+    align-items: center;
+}
+/* end */
+ /* start form  */
+#our-form
+{
+    background-color: #F5F5F5;
+    height: 721px;
+}
+#our-form h2
+{
+    text-transform: capitalize;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 4pc;
+}
+#our-form p
+{
+    font-size: 15px;
+    text-align: center;
+    color: darkgrey;
+    padding-top: 2pc;
+}
+#our-form form
+{
+    text-align: center;
+}
+#our-form form #your-name , input[type=email]
+{
+    outline: none;
+    border: none;
+    width: 365px;
+    height: 44px;
+    padding-left: 2pc;
+    margin-right: 3pc;
+    text-transform: capitalize;
+}
+#our-form form #your-tittle
+{
+    width: 59%;
+    padding: 12px 20px;
+    margin-top: 22px;
+    margin-left: -2pc;
+    border: none;
+    outline: none;
+    text-transform: capitalize;
+}
+#our-form form textarea
+{
+    text-transform: capitalize;
+    border: none;
+    outline: none;
+    width: 58%;
+    height: 200px;
+    margin: 2pc 0pc;
+    margin-right: 3pc;
+    padding-left: 1pc;
+    padding-top: 1pc;
+    resize: none;
+}
+#our-form form .button-send
+{
+    background-color: #10C9C3;
+    margin-right: 20pc;
+    margin-left: 20pc;
+    color: #fff;
+    border-radius: 1px;
+    cursor: pointer;
+}
+#our-form form .button-send:hover
+{
+    color: #000;
+    background-color: #fff;
+}
+/* end */
+/* style for footer */
+.style-footer
+{
+    height: 300px;
+    background-color: #141414;
+}
+.style-footer .part-left
+{
+    width: 25%;
+    padding-top: 7pc;
+    padding-left: 7pc;
+}
+.style-footer .part-left h5
+{
+    text-transform: capitalize;
+    font-weight: bolder;
+    color: #fff;
+}
+.style-footer .part-left p
+{
+    color: #BCBCBC;
+    font-size: 15px;
+    padding-top: 1pc;
+}
+.style-footer .part-center
+{
+    width: 25%;
+    color: #BCBCBC;
+    font-size: 14px;
+    text-align: center;
+    padding-left: 32pc;
+    margin-top: -9pc;
+}
+.style-footer .part-about1 li
+{
+    width: 25%;
+    list-style-type: none;
+    position: relative;
+    left: 44pc;
+    bottom: 4pc;
+    text-transform: capitalize;
+    font-size: 16px;
+    color: #BCBCBC;
+}
+.style-footer .part-about2 li
+{
+    font-size: 16px;
+    width: 25%;
+    list-style-type: none;
+    position: relative;
+    text-transform: capitalize;
+    left: 15pc;
+    bottom: 4pc;
+    color: #BCBCBC;
+}
+.style-footer .social 
+{
+    color: #BCBCBC;
+    text-transform: capitalize;
+    list-style-type: none;
+    float: right;
+    margin-top: -10pc;
+}
+.style-footer .social li
+{
+    padding-right: 6pc;
+    font-size: 17px;
+    cursor: pointer;
+}
+.style-footer .social li:hover
+{
+    color:rgb(88, 158, 238);
+}
+/* end */
+/* Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) 
+{ 
+    .navbar 
+    {
+        width: 74pc;
+    }
+    .intro div h1 
+    {
+        margin-top: 204px;
+    }
+    .intro .button-style 
+    {
+        right: -33pc;
+        top: 7pc;
+    }
+    .intro 
+    {
+        width: 74pc;
+    }
+    #about h3 ,#about p 
+    {
+        position: relative;
+        left: 24pc;
+    }
+    #professional-skills 
+    {
+        width: 74pc;
+    }
+    #infromaton 
+    {
+        width: 74pc;
+    }
+    .section5 
+    {
+        width: 72pc;
+        top: 0pc;
+    }
+    .media .text-one 
+    {
+        float: left;
+        padding-right: 1pc;
+        top: 4pc;
+        left: 1pc;
+    }
+    .fa-briefcase 
+    {
+        top: 2pc;
+        left: 6pc;
+    } 
+    .col-sm .text-two 
+    {
+        left: 18pc;
+        top: -5px;
+    }   
+    .fa-clock 
+    {
+        top: -4pc;
+        left: 27pc;
+    }
+    .fa-star 
+    {
+        top: -7pc;
+        left: 45pc;
+    }
+    .fa-amazon 
+    {
+        top: -10pc;
+        left: 63pc;
+    }
+    .col-sm .text-four 
+    {
+        position: relative;
+        left: 54pc;
+        top: -7pc;
+    }
+    .col-sm .text-three 
+    {
+        left: 36pc;
+        top: -59px;
+    }    
+    .section5 .more 
+    {
+        margin-left: 2pc;
+    }
+    #work 
+    {
+        top: 72px;
+    }
+    #work .text-work h3,
+    #work .text-work p 
+    {
+        position: relative;
+        left: 20pc;
+    }
+    #work .text-work video 
+    {
+        left: 7pc;
+    }
+    .our-inform 
+    {
+        width: 74pc;
+        top: 44pc;
+        left: 1pc;
+    }
+    #part-slide 
+    {
+        margin-top: 44pc;
+        width: 74pc;
+    }
+    #work-with 
+    {
+        width: 74pc;
+    }  
+    #our-form 
+    {
+        width: 74pc;
+    }
+    #our-form form #your-tittle 
+    {
+        width: 49pc;
+    }
+    #our-form form textarea 
+    {
+    text-transform: capitalize;
+    border: none;
+    outline: none;
+    width: 49pc;
+    }
+    .style-footer 
+    {
+        width: 74pc;
+    }
+    .style-footer .part-about2 li 
+    {
+        left: 50pc;
+        bottom: 10pc;
+    }
+    .style-footer .social 
+    {
+        margin-top: -16pc;
+    }
+}
+/* ************************************** */
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) 
+{ 
+    .navbar 
+    {
+        width: 74pc;
+    }
+    .intro 
+    {
+        width: 74pc;
+    }
+    #about h3, #about p
+    {
+        position: relative;
+        left: 16pc;
+    }
+    #about img 
+    {
+        left: 33pc;
+    }
+    #professional-skills 
+    {
+        width: 74pc;
+        margin-top: 3pc;
+    }
+    #infromaton 
+    {
+        width: 1191px;
+    }
+    .section5 
+    {
+        width: 72pc;
+    }
+    #work .text-work h3, #work .text-work p 
+    {
+        position: relative;
+        left: 16pc;
+    }
+    #work .text-work video 
+    {
+        left: 8pc;
+    }
+    .our-inform 
+    {
+        width: 74pc;
+        left: 1pc;
+    }
+    #part-slide 
+    {
+        width: 74pc;
+    }
+    #work-with 
+    {
+        width: 74pc;
+    }
+    #our-form 
+    {
+        width: 74pc;
+    }
+    .style-footer
+    {
+        width: 74pc;
+    }
+    .style-footer .part-about1 li 
+    {
+    left: 27pc;
+    }
+}
+/* ******************************************************** */
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) 
+{ 
+    .navbar 
+    {
+    width: 74pc;
+    }
+    .intro 
+    {
+        width: 74pc;
+    }
+    .intro div h1 
+    {
+        margin-right: 9%;
+        margin-top: 218px;
+    }
+    .intro .button-style 
+    {
+        right: -43pc;
+    }
+    #about h3,#about p  
+    {
+        position: relative;
+        left: 10pc;
+    }
+    #about img 
+    {
+        left: 33pc;
+    }
+    #professional-skills 
+    {
+        width: 74pc;
+    }
+    #infromaton 
+    {
+        width: 74pc;
+    }
+    .section5 
+    {
+        width: 72pc;
+    }
+    .section5 .more 
+    {
+        margin-left: 2pc;
+    }
+    #work .text-work h3, #work .text-work p 
+    {
+        position: relative;
+        left: 10pc
+    }
+    #work .text-work video
+    {
+        left: 7pc;
+    }
+    .our-inform 
+    {
+        height: 384px;
+        width: 74pc;
+        top: 21pc;
+        left: 1pc;
+    }
+    #part-slide 
+    {
+        margin-top: 21pc;
+        width: 74pc;
+    }     
+    #work-with 
+    {
+    width: 74pc; 
+    }
+    #our-form 
+    {
+        width: 74pc;
+    }
+    .style-footer 
+    {
+        width: 74pc;
+    }
+    .style-footer .part-about1 li 
+    {
+        left: 31pc;
+    }
+}
+/* ************************************************************************** */
+/* // Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) 
+{ 
+    .navbar-nav 
+    {
+        margin-left: 36%;
+    }
+    .navbar-nav 
+    {
+        margin-left: 36%;
+    }
+    .intro div h1 
+    {
+        margin-right: 10%;
+        margin-top: 217px;
+    }
+    .intro .button-style 
+    {
+        right: -33pc;
+    }
+    #about h3, #about p
+    {
+        position: relative;
+        left: 6pc;
+    }
+    #about img 
+    {
+        left: 31pc;
+    }
+    .section5 .more 
+    {
+        margin-left: 1pc;
+    }
+    #work .text-work h3, #work .text-work p 
+    {
+        position: relative;
+        left: 6pc
+    }
+    #work .text-work video 
+    {
+        left: 6pc;
+    }
+    .our-inform 
+    {
+        width: 74pc;
+        top: 23pc;
+        left: 1pc;
+    }
+    #work-with ,#our-form ,#part-slide,.style-footer, #infromaton , .section5 ,#professional-skills ,.intro ,.navbar 
+    {
+        width: 74pc;
+    }
+    .style-footer .part-about2 li 
+    {
+        left: 9pc;
+    }
+    .section5 .stylt-img1 img 
+    {
+        width: 311px;
+    }
+}
+/* ****************************************************** */
+/* // Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) 
+{
+    .navbar-nav 
+    {
+        margin-left: 36%;
+    }
+    .navbar, .intro ,#professional-skills ,#infromaton, #part-slide ,#work-with ,#our-form ,.style-footer
+    {
+        margin-left: 0px;
+    }
+    .intro div h1 
+    {
+        margin-right: 10%;
+        margin-top: 227px;
+    }
+    #about img 
+    {
+        left: 31pc;
+    }
+    .section5 .more 
+    {
+        margin-left: 2px;
+    }
+    #work .text-work video 
+    {
+        left: 11pc;
+    }
+    .our-inform 
+    {
+        width: 84pc;
+        top: 23pc;
+        left: 1pc;
+    }
+    
+}
+
+
+
